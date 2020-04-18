@@ -1,4 +1,4 @@
-![Image of Yaktocat](/Minimal.png)
+![Image of Yaktocat](https://media.discordapp.net/attachments/621445233749655552/700831966399954984/unknown.png?width=815&height=458)
 <h3>install all this befor start :</h3>
 <ul>
 <li>i3</li>
