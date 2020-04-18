@@ -13,7 +13,7 @@
 
 ```cd dotfile```
  
-```cp .config/* ~/.config/ ```
+```cp .config/* ~/.config/   -r```
 
 ```cp .i3 ~/.i3 -r```
 
